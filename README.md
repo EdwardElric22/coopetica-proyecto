@@ -1,2 +1,68 @@
-# coopetica-proyecto
-Creacion de Repositorio para Proyecto de Programacion 2, curso de la Ulatina
+# \# CoopeTica R.L. 
+
+
+
+# Tarea 1 · BIS04 Programación II · Universidad Latina de Costa Rica
+
+# 
+
+# \## Integrantes
+
+# 
+
+# | Integrante | Usuario de GitHub |
+
+# | --- | --- |
+
+# | Eduard Ulate Cerdas | @EdwardElric22 |
+
+# | Keily Brenes Saenz | @Keybrenes |
+
+# 
+
+# \## Descripción del dominio
+
+# 
+
+# Coopetica es el ejemplo pratico a utilizar para esta tarea de GitHub
+
+# 
+
+# \## Diagrama de clases
+
+# 
+
+# Diagrama de clase movimiento
+
+# diagrama/diagrama-movimiento.png
+
+# 
+
+# \## Justificación del modelo
+
+# 
+
+# \### Clases escogidas
+
+# 
+
+# Movimiento: es una clase necesaria porque aca consultamos los productos que ofrece la cooperativa.
+
+# 
+
+# \### Elementos descartados
+
+# 
+
+# no descartamos elementos.
+
+# 
+
+
+
+# \## Bitácora de uso de inteligencia artificial
+
+# 
+
+# Pregunte en Google AI por ejemplos de estructuras para realizar el esqueleto del Readme file.
+
