@@ -68,5 +68,5 @@
 
 # Pregunte en Google AI por ejemplos de estructuras para realizar el esqueleto del Readme file.
 # Pregunte a Chat GPT si utilizar int para los atributos Cédula y Nombre era correcto.
-# Pregunte a Chat GPT la simbología de la visibilidad y como se debía agregar al Diagrama UML
+# Pregunte a Chat GPT la simbología de la visibilidad y como se debía agregar al Diagrama UML.
 
