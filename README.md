@@ -30,7 +30,8 @@
 
 # \## Diagrama de clases
 
-# 
+# <img width="1366" height="660" alt="image" src="https://github.com/user-attachments/assets/a520d501-ba23-47bc-83be-d49c94d281f3" />
+
 
 # Diagrama de clase movimiento
 
