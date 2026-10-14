@@ -1,1 +1,1 @@
-CoopeTica R.L. es una cooperativa de ahorro y crédito costarricense de tamaño mediano que actualmente administra su operación en hojas de cálculo dispersas. Requiere un sistema que le permita ordenar la información de sus asociados, sus cuentas y sus movimientos.
+CoopeTica R.L. es una cooperativa de ahorro y crédito costarricense de tamaño mediano que actualmente administra su operación en hojas de cálculo dispersas. Requiere un sistema que le permita ordenar la información de sus asociados, sus cuentas y sus acciones
