@@ -46,7 +46,8 @@
 # \### Clases escogidas
 
 # 
-
+# La clase Asociado representa a cada persona asociada a la corporativa, se necesitó que fuera una clase para poder identificar sus datos personales y estado en la corporativa. 
+# La clase Cuenta representa una cuenta financiera que tiene operaciones y reglas propias de la corporativa, no debía mezclarse con la clase Asociado ya que aquella es de información personal del asociado solamente.
 # Movimiento: es una clase necesaria porque aca consultamos los productos que ofrece la cooperativa.
 
 # 
@@ -66,4 +67,6 @@
 # 
 
 # Pregunte en Google AI por ejemplos de estructuras para realizar el esqueleto del Readme file.
+# Pregunte a Chat GPT si utilizar int para los atributos Cédula y Nombre era correcto.
+# Pregunte a Chat GPT la simbología de la visibilidad y como se debía agregar al Diagrama UML
 
